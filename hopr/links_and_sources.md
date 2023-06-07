@@ -5,6 +5,7 @@ Folder csvs:
     - rewards data (output from df_hopr_rewards_month of hopr_rewards notebook)
     - $-price via coingecko 
     - used total maximum supply of 1 B HOPR for relative token rewards
+    - used hopr dashboard to get number of nodes for past months, before estimates using ratio of accounts claiming stake rewards and live nodes of that time and apply it to number of accounts on the earlier months (for sure one point where it would be great to get the actual data)
 
 Data sources:
 - https://dune.com/queries/2037368/3373003 (HOPR rewards per account per month)
