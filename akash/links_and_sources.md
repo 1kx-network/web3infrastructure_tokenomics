@@ -1,7 +1,10 @@
 ### Akash data collected so far
 
 Folder csvs has
-- akash_data_rewards: rewards data (calculated via circulating supply minus mints for vesting genesis AKT), $-price as monthly average via coingecko, used 388,539,008 as maximum token supply for relative token rewards
+* akash_data_rewards: 
+    - rewards data (calculated via circulating supply minus mints for vesting genesis AKT)
+    - $-price as monthly average via coingecko
+    - used 388,539,008 as maximum token supply for relative token rewards
 
 Data sources:
 - https://cloudmos.io/akash/dashboard

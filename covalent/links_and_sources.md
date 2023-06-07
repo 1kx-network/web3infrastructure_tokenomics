@@ -8,6 +8,7 @@ Folder csvs:
 
 Data sources:
 - https://www.covalenthq.com/staking/#/ (Dashboard with $-values of amounts staked and cumulative staking rewards claimed)
+- https://www.covalenthq.com/platform/increment/#/pages/covalent/the-covalent-network-v2/ (increment query to above dashboard)
 
 
 ### Relevant articles/links
