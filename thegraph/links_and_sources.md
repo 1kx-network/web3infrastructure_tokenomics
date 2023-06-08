@@ -4,7 +4,7 @@ Folder csvs:
 * thegraph_data_rewards: 
     - rewards data (output from df_rewards_monthly of thegraph_rewards notebook)
     - $-price via coingecko
-    - used total maximum supply estimate 12,189,944,200 (extending current supply with annual inflation of 3% for 10 years) for relative token rewards
+    - used total maximum supply estimate 12,189,944,200 (extending current supply with (est.) annual net inflation of 2% for 10 years) for relative token rewards
 
 Data sources:
 * https://dune.com/abarmat/The-Graph-Overview (based below queries on those shared in that dashboard)
