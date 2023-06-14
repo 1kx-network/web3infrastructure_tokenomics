@@ -3,7 +3,7 @@
 Folder csvs:
 * pocket_data_rewards: 
     - rewards data (output from df_rewards_monthly of pocket_rewards notebook)
-    - $-price via coingecko (assumed 0.2$ and 0.4$ before data available)
+    - $ -price via coingecko (assumed 0.2$ and 0.4$ before data available)
     - used total maximum supply estimate 3,900,988,660 (extending current supply with annual inflation of 10% for 10 years) for relative token rewards
     - additional data via poktscan.com
 * pocket_chains: maps chain name and RelayChainId (used in pocket_rewards notebook)

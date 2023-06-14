@@ -3,7 +3,7 @@
 Folder csvs:
 * helium_mobile_data_rewards: 
     - rewards data based on first two data sources below
-    - $-price via coin360.com (assumed 0.001$ before data available)
+    - $ -price via coin360.com (assumed 0.001$ before data available)
     - used total maximum supply of 250,000,000,000 MOBILE for relative token rewards
     - #CBRS radios using snapshots of network explorers and escape velocity report (see 5th data source)
 

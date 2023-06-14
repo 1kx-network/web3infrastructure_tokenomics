@@ -4,7 +4,7 @@ Folder csvs:
 * pollen_data_rewards: 
     - rewards data (output from df_out of pollen_rewards notebook)
     - note that Pollen changed the token model end of February (see last source in links-section) and also API endpoint data is stale since 12/18/2022 
-    - $-price via coinmarketcap (assumed 0.25$ before data available)
+    - $ -price via coinmarketcap (assumed 0.25$ before data available)
     - used total maximum supply of 1,000,000,000 PCN for relative token rewards
     
 

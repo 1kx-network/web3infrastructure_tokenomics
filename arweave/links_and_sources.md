@@ -3,11 +3,12 @@
 Folder csvs:
 * arweave_data_rewards: 
     - rewards data (calculated via formula (using annual blocks minted 262800 and genesis supply of 55M and blockheight)
-    - $-price via coingecko (assumed 0.25$ before data available)
+    - $ -price via coingecko (assumed 0.25$ before data available)
     - remaining data from viewblock
 
 Data sources:
 - https://viewblock.io/arweave/stats
+- https://arweave.net/graphql
 
 
 ### Relevant articles/links
