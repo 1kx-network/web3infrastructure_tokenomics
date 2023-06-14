@@ -3,7 +3,7 @@
 Folder csvs:
 * helium_data_rewards: 
     - rewards data (output from df_net_rewards of helium_rewards notebook  - see also data sources below how to get those easier)
-    - \$-price via coingecko (assumed 0.1$ before data available)
+    - dollar-price via coingecko (assumed 0.1$ before data available)
     - used total maximum supply of 223,000,000 HNT for relative token rewards
     - rewards for service nodes and their validation (not blockchain consensus) based on split of rewards presented in HIP 20 (see 5th item in relevant articles/links)
     - #hotspots as avg/month from https://etl.dewi.org/question/12-total-hotspots
