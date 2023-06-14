@@ -8,6 +8,7 @@ Folder csvs:
 
 Data sources:
 - https://viewblock.io/arweave/stats
+- https://arweave.net/graphql
 
 
 ### Relevant articles/links
