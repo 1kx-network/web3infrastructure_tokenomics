@@ -14,7 +14,7 @@ Folder csvs:
 
 Data sources:
 * https://api.helium.io/v1 (no longer supported since move to solana end of April 2023, see details: https://docs.helium.com/api/blockchain/hotspots/)
-* https://etl.dewi.org/collection/root (has all the data in easy accessible format)
+* https://etl.dewi.org/collection/root (has all the data pre Solana migration in easy accessible format)
 * https://heliumanalytics.io/monthly-reward-distribution/ (great data/visualization of reward distribution across hotspots)
 * https://docs.helium.com/oracles/oracle-data/ (presented as alternative to pull data after deprecation of helium api - haven't used it yet though)
 * https://dune.com/helium-foundation/ (data after solana migration available in various dashboards)
