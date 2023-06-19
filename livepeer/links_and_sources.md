@@ -1,7 +1,7 @@
 ### Livepeer data collected so far
 
 Folder csvs:
-* thegraph_data_rewards: 
+* livepeer_data_rewards: 
     - rewards data (output from df_orch_month of livepeer_rewards notebook)
     - $ -price via coingecko (assumed 3$ before data available)
     - used total maximum supply estimate 53,059,499 (extending supply (per EoY'22, ~27 M) with annual inflation of 7% for 10 years) for relative token rewards
