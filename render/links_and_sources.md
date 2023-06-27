@@ -15,7 +15,8 @@ Data sources:
 
 ### Relevant articles/links
 
-- https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad442da8a-067e-490f-88cf-2c4511016ff7&viewer%21megaVerb=group-discover (Whitepaper)
+- https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad442da8a-067e-490f-88cf-2c4511016ff7&viewer%21megaVerb=group-discover (original Whitepaper)
+- https://renderfoundation.com/whitepaper (updated version)
 - https://know.rendertoken.com/getting-started/using-layer-2-l2
 - https://know.rendertoken.com/documentation/rndr-user-manuel/m-proof-of-rndr
 - https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/rnp-001-bme.md
