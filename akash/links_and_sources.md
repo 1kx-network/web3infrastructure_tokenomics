@@ -14,7 +14,8 @@ Data sources:
 
 ### Relevant articles/links
 
-- Token & Mining Economics: https://akash-web-prod.s3.amazonaws.com/uploads/2020/03/akash-econ.pdf
+- Network whitepaper: https://ipfs.io/ipfs/QmVwsi5kTrg7UcUEGi5UfdheVLBWoHjze2pHy4tLqYvLYv
+- Token & Mining Economics: https://ipfs.io/ipfs/QmdV52bF7j4utynJ6L11RgG93FuJiUmBH1i7pRD6NjUt6B
 - Akash Network Economics 2.0 Proposal: https://github.com/gosuri/akt20/blob/main/README.md
 
 
