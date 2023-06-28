@@ -24,6 +24,8 @@ Data sources:
 - https://medium.com/block-science/sustainability-goal-achieved-filecoin-network-crosses-baseline-target-cec13a3ed8f
 - https://www.starboard.ventures/post/an-analysis-of-filecoin-storage-providers-storage-power-and-wealth-distribution
 - https://www.starboard.ventures/post/economics-of-providing-web3-storage-on-filecoin
+- https://medium.com/cryptoeconlab/unpacking-filecoins-gas-usage-ecaec1f021f4
+- https://www.starboard.ventures/post/gas-burning-in-filecoin-a-protocol-bidding-mechanism-to-advance-the-network-s-health
 
 
 
