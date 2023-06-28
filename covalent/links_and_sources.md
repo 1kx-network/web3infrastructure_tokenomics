@@ -17,6 +17,7 @@ Data sources:
 - https://www.covalenthq.com/static/documents/Covalent%20Whitepaper%20M
 - https://www.covalenthq.com/docs/cqt-network/network-rewards/#network-operator-reward-models
 - https://www.covalenthq.com/docs/cqt-network/block-specimen-producer/
+- https://www.covalenthq.com/docs/cqt-network/refiner-whitepaper/
 
 
 
